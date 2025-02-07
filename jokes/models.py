@@ -49,4 +49,4 @@ class Category(models.Model):
         return self.category
 
     class Meta:
-        verbose_name_plural = 'Categories'    
+        verbose_name_plural = 'Categories'        
